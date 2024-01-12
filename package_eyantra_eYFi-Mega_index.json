@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "name": "eYFi-Mega-ATmega2560-Section",
+      "maintainer": "e-Yantra",
+      "websiteURL": "http://products.e-yantra.org/eyfi-mega/", 
+      "platforms": [
+        {
+          "name": "eYFi-Mega",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/souravjena/eysip2020-36-eYFi-Mega-ArduinoIDE/blob/master/e-Yantra-ATmega2560/eYFi-Mega%20board/eYFi-Mega-Atmega2560.zip?raw=true",
+          "archiveFileName": "eYFi-Mega-Atmega2560.zip",
+          "checksum": "SHA-256:1bf634be0093c8a829e6b2b661d88b4ae6c405697f92c885c913b5f9db66e0b2",
+          "size": "23032451",
+          "boards": [
+            {"name": "eYFi-Mega (ATmega2560 Section)"}
+          ],
+          "toolsDependencies": [
+          ]
+        }
+      ],
+      "tools":[
+      ]
+    }
+  ]
+}
